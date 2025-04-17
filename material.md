@@ -7,7 +7,7 @@
 ![image](https://github.com/user-attachments/assets/c9803cd8-9eeb-48c0-895a-b037387202c9)
 
 ### 分享活动推广链接
-- 在热门推荐中，您可获取当前所有活动的专属链接，点击“复制推广链接”即可分享。
+- 在热门推荐中，您可获取当前所有活动的专属链接，点击【复制推广链接】即可分享。
 ![image](https://github.com/user-attachments/assets/170b4125-7865-4c00-bd36-e0b0102f6bcb)
 
 
