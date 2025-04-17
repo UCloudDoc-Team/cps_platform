@@ -11,12 +11,12 @@
 ### 查询订单信息  
 1. 输入订单号：直接输入订单号快速定位。  
 2. 输入客户ID：通过关联的客户ID筛选订单。
-![image](https://github.com/user-attachments/assets/092b9432-ed8b-4c6f-804b-e62522ac59f2)
+![image](images/order1.png)
 
 
 ### 订单展示  
 - 时间筛选：支持选择订单展示的时间段。
-![image](https://github.com/user-attachments/assets/51a65e3f-440d-4c3d-b112-0f0e26304217)
+![image](images/order2.png)
 - 自定义排序：可按订单时间、订单类型、订单金额、返佣比例、推广佣金维度排序。
-![image](https://github.com/user-attachments/assets/e75d1e21-48a2-46e0-aebf-96e5fa81fd31)
+![image](images/order3.png)
 
