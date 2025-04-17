@@ -6,14 +6,14 @@ UCloud推广大使是面向个人及高校用户的云服务推广计划，旨�
 
 ## 1.UCloud推广大使合作协议
 
-* [UCloud推广大使合作协议](contract.md)
+* [UCloud推广大使合作协议](/cps_platform/contract)
 
 
 ## 2.操作指南
 
-  * [推广素材](material.md)
-  * [我的客户](myclient.md)
-  * [返佣订单](order.md)
-  * [月结收入](income.md)
+  * [推广素材](/cps_platform/material)
+  * [我的客户](/cps_platform/myclient)
+  * [返佣订单](/cps_platform/order)
+  * [月结收入](/cps_platform/income)
 
 
