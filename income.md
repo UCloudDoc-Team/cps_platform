@@ -15,8 +15,8 @@
    - 银行卡号  
    - 银行名称  
    - 银行支行  
-![image](https://github.com/user-attachments/assets/6e3e4034-dc33-4b66-9f75-46e721bede0b)
-![image](https://github.com/user-attachments/assets/dbcff0d0-ce58-4f14-85bd-9486c0dbcb4c)
+![image](images/income1.png)
+![image](images/income2.png)
 
 ### 修改银行卡  
 1. 点击 【修改】  
@@ -24,12 +24,12 @@
    - 银行卡号  
    - 银行名称  
    - 银行支行
-![image](https://github.com/user-attachments/assets/547bef99-631f-4dba-b5a8-39051405867b)
-![image](https://github.com/user-attachments/assets/b33fe28e-da39-4b27-9248-a35637397ae4)
+![image](images/income3.png)
+![image](images/income4.png)
 
 ### 月结明细
 您可在此查看月结佣金的明细，以及佣金状态
-![image](https://github.com/user-attachments/assets/5fffff02-5e7b-4343-9f70-5ad9f08d0acc)
+![image](images/income5.png)
 
 
 
