@@ -7,6 +7,6 @@
 
 ### 查询客户
 输入客户ID查询对应客户信息
-![image](https://github.com/user-attachments/assets/57890b78-016c-4983-81d5-ca1119abaa5d)
+![image](images/client1.png)
 
 **重要提示**：  当认证类型为无效认证或未认证的客户，其消费订单无法计算返佣，属于无效订单。  
