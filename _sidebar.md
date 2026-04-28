@@ -1,6 +1,7 @@
 
 * [概览](/cps_platform/README)
 * [UCloud推广大使合作协议](/cps_platform/contract)
+* [返利规则](/cps_platform/rules)
 * 操作指南
    * [推广素材](/cps_platform/material)
    * [我的客户](/cps_platform/myclient)
