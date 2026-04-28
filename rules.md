@@ -122,6 +122,6 @@ U大使推荐单个用户佣金上限为2万元，每月可获得总佣金上限
 
 <br>
 <div align="center">
-<img src="images/rules3.png" alt="rules" width="200">
+<img src="images/rules3.png" width="200">
 <br>扫码进专属群获取最新活动及优惠   
 </div>
