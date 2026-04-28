@@ -1,14 +1,14 @@
 
 # 概览
 
-UCloud推广大使是面向个人及高校用户的云服务推广计划，旨在通过高效的推广工具与透明的激励机制，帮助用户通过分享UCloud产品与服务获取丰厚佣金。<a href="https://www.ucloud.cn/site/active/regift.html" target="_blank">立即加入</a>
+UCloud 推广大使是面向个人及高校用户的云服务推广计划，旨在通过高效的推广工具与透明的激励机制，帮助用户通过分享 UCloud 产品与服务获取丰厚佣金。<a href="https://www.ucloud.cn/site/active/regift.html" target="_blank">立即加入</a>
 
 
 
-## 1.UCloud推广大使合作协议
+## 1.UCloud 推广大使合作协议
 
-* [UCloud推广大使合作协议](/cps_platform/contract)
-
+* [UCloud 推广大使合作协议](/cps_platform/contract)
+* [返利规则](/cps_platform/rules)
 
 ## 2.操作指南
 
